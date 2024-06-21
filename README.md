@@ -1,7 +1,11 @@
 Machine Learning for Crypto and Stock Trading
+This is an Udemy course adapted for Rust by Machine Learning Applied to Stock & Crypto Trading - Python
+Instructor:
+Shaun McDonogh
+
 This repository contains my notes, code samples, and projects from the course on Machine Learning for Crypto and Stock Trading. It's organized by course sections, with each section containing relevant notes and code.
 Repository Structure
-Copy.
+
 ├── README.md
 ├── Section1_Introduction/
 ├── Section2_Resources_and_Disclaimer/
@@ -17,20 +21,6 @@ Copy.
 ├── Section12_Course_Summary_and_Next_Steps/
 └── Section13_APPENDIX_General_Trading_Principles/
 Course Content
-
-Introduction (24min)
-Resources and Disclaimer (1min)
-Primer Theory (53min)
-Environment Setup and Data Retrieval (1hr 4min)
-Primer Practical (3hr 4min)
-Unsupervised Machine Learning - Hidden Markov Model (1hr 31min)
-Unsupervised Machine Learning - K-Means (1hr 29min)
-Unsupervised Learning - Principal Component Analysis (1hr 5min)
-Supervised Machine Learning (2hr 35min)
-Supervised Deep Learning - Basic Introduction (1hr 9min)
-Reinforcement Learning (3hr 31min)
-Course Summary and Next Steps (5min)
-APPENDIX - General Trading Principles (58min)
 
 Technologies Used
 
@@ -55,10 +45,6 @@ Navigate to the notebook's directory
 Run jupyter notebook in your terminal
 
 
-For Python scripts:
-
-Ensure you have Python installed
-Run scripts using python script_name.py
 
 
 For Rust projects:
