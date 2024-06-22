@@ -1,0 +1,9 @@
+[package]
+name = "ml_crypto_stock"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+pyo3 = { version = "0.17", features = ["extension-module", "numpy"] }
+numpy = "0.14"
